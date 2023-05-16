@@ -2,6 +2,10 @@
 
 📱🤖🏷 A simple telegram bot to retrieve leetcode questions
 
+## Supported Commands
+
+1. `!lc`: to get the question of the day.
+
 ## Tutorial
 
 [Build Telegram Bots with JavaScript - The Complete Guide - YouTube](https://www.youtube.com/watch?v=joApqWBrm20&list=PLX2ojSA27XYhIopdU2RRQIMe7gfwcKL84)
